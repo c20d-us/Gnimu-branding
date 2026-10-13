@@ -59,4 +59,10 @@ Reference them by absolute URL, since relative paths cannot cross repositories:
 
 Renaming or moving a file here breaks every README that links to it, so keep the paths stable.
 
+## Licence
+
+These files are not open source. You may use them unmodified to refer to the Gnimu projects; see the [usage policy](LICENSE.md) for what is and is not allowed.
+
+## Silkscreen logos
+
 The silkscreen versions of the logo live with the board designs in [Gnimu-PCB](https://github.com/c20d-us/Gnimu-PCB/tree/main/silkscreen-logos).
